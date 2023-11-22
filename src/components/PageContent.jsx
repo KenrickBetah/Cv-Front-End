@@ -369,7 +369,7 @@ const PageContent = () => {
                   <div className="mt-2">
                     <h3 className="h6">Address</h3>
                     <div className="pb-2 text-secondary">
-                      140, City Center, New York, U.S.A
+                      Aertembaga, Bitung, Indonesia
                     </div>
                     <h3 className="h6">Phone</h3>
                     <div className="pb-2 text-secondary">
