@@ -11,7 +11,7 @@ const Header = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://twitter.com/templateflip"
+                      href="https://twitter.com/KenB180603"
                       title="Twitter"
                     >
                       <i className="fab fa-twitter" />
@@ -21,7 +21,7 @@ const Header = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://www.facebook.com/templateflip"
+                      href="https://www.facebook.com/Kenrick Betah"
                       title="Facebook"
                     >
                       <i className="fab fa-facebook" />
@@ -31,7 +31,7 @@ const Header = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://www.instagram.com/templateflip"
+                      href="https://www.instagram.com/betahkenrick"
                       title="Instagram"
                     >
                       <i className="fab fa-instagram" />
@@ -41,7 +41,7 @@ const Header = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://github.com/templateflip"
+                      href="https://github.com/KenrickBetah"
                       title="Github"
                     >
                       <i className="fab fa-github" />
