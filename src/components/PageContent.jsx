@@ -372,9 +372,13 @@ const PageContent = () => {
                       140, City Center, New York, U.S.A
                     </div>
                     <h3 className="h6">Phone</h3>
-                    <div className="pb-2 text-secondary">+0718-111-0011</div>
+                    <div className="pb-2 text-secondary">
+                      +062-877-0912-3759
+                    </div>
                     <h3 className="h6">Email</h3>
-                    <div className="pb-2 text-secondary">Joyce@company.com</div>
+                    <div className="pb-2 text-secondary">
+                      S2200451@student.unklab.ac.id
+                    </div>
                   </div>
                 </div>
                 <div className="col d-none d-print-block">
@@ -383,25 +387,25 @@ const PageContent = () => {
                       <div className="mb-2">
                         <div className="text-dark">
                           <i className="fab fa-twitter mr-1" />
-                          <span>https://twitter.com/templateflip</span>
+                          <span>https://twitter.com/KenB180603</span>
                         </div>
                       </div>
                       <div className="mb-2">
                         <div className="text-dark">
                           <i className="fab fa-facebook mr-1" />
-                          <span>https://www.facebook.com/templateflip</span>
+                          <span>https://www.facebook.com/Kenrick Betah</span>
                         </div>
                       </div>
                       <div className="mb-2">
                         <div className="text-dark">
                           <i className="fab fa-instagram mr-1" />
-                          <span>https://www.instagram.com/templateflip</span>
+                          <span>https://www.instagram.com/betahkenrick</span>
                         </div>
                       </div>
                       <div className="mb-2">
                         <div className="text-dark">
                           <i className="fab fa-github mr-1" />
-                          <span>https://github.com/templateflip</span>
+                          <span>https://github.com/KenrickBetah</span>
                         </div>
                       </div>
                     </div>
