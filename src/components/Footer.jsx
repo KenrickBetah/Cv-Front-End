@@ -5,14 +5,14 @@ const Footer = () => {
       <footer className="pt-4 pb-4 text-muted text-center d-print-none">
         <div className="container">
           <div className="my-3">
-            <div className="h4">Joyce Harrison</div>
+            <div className="h4">Kenrick Betah</div>
             <div className="footer-nav">
               <nav role="navigation">
                 <ul className="nav justify-content-center">
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://twitter.com/templateflip"
+                      href="https://twitter.com/KenB180603"
                       title="Twitter"
                     >
                       <i className="fab fa-twitter" />
@@ -22,7 +22,7 @@ const Footer = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://www.facebook.com/templateflip"
+                      href="https://www.facebook.com/Kenrick Betah"
                       title="Facebook"
                     >
                       <i className="fab fa-facebook" />
@@ -32,7 +32,7 @@ const Footer = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://www.instagram.com/templateflip"
+                      href="https://www.instagram.com/betahkenrick"
                       title="Instagram"
                     >
                       <i className="fab fa-instagram" />
@@ -42,7 +42,7 @@ const Footer = () => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://github.com/templateflip"
+                      href="https://github.com/KenrickBetah"
                       title="Github"
                     >
                       <i className="fab fa-github" />
