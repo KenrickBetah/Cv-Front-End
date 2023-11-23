@@ -8,7 +8,7 @@ const PageContent = () => {
               <div className="row">
                 <div className="col-lg-4 col-md-5">
                   <div className="avatar hover-effect bg-white shadow-sm p-1">
-                    <img src="public/images/wew.jpg" width={200} height={200} />
+                    <img src="/images/wew.jpg" width={200} height={200} />
                   </div>
                 </div>
                 <div className="col-lg-8 col-md-7 text-center text-md-start">
